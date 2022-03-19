@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "need": [
+        {
+          "key": "pl",
+          "value": "Nocleg"
+        },
+        {
+          "key": "ua",
+          "value": "Проживання"
+        }
+      ],
+      "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+    },
+    {
+      "need": [
+        {
+          "key": "pl",
+          "value": "Karta SIM"
+        },
+        {
+          "key": "ua",
+          "value": "SIM-карта"
+        }
+      ],
+      "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+    }
+  ]
+}
