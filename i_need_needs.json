@@ -38,6 +38,156 @@
             }
           ],
           "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Szpital"
+            },
+            {
+              "key": "ua",
+              "value": "Лікарня"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Przychodnia"
+            },
+            {
+              "key": "ua",
+              "value": "Клініка"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Apteka"
+            },
+            {
+              "key": "ua",
+              "value": "Аптека"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "default",
+              "value": "COVID-19"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        }
+      ]
+    },
+    {
+      "need": [
+        {
+          "key": "pl",
+          "value": "Karta SIM"
+        },
+        {
+          "key": "ua",
+          "value": "SIM-карта"
+        }
+      ],
+      "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+    },
+    {
+      "need": [
+        {
+          "key": "pl",
+          "value": "Pomoc medyczna"
+        },
+        {
+          "key": "ua",
+          "value": "медична допомога"
+        }
+      ],
+      "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW",
+      "data": [
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Źle się czuję"
+            },
+            {
+              "key": "ua",
+              "value": "Мені погано"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Moje dziecko źle się czuje"
+            },
+            {
+              "key": "ua",
+              "value": "Моя дитина почувається погано"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Szpital"
+            },
+            {
+              "key": "ua",
+              "value": "Лікарня"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Przychodnia"
+            },
+            {
+              "key": "ua",
+              "value": "Клініка"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "pl",
+              "value": "Apteka"
+            },
+            {
+              "key": "ua",
+              "value": "Аптека"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
+        },
+        {
+          "need": [
+            {
+              "key": "default",
+              "value": "COVID-19"
+            }
+          ],
+          "imageUrl": "https://drive.google.com/uc?id=1upc4FisP-8cwxo--dAxy7VNDGfesmkaW"
         }
       ]
     },
